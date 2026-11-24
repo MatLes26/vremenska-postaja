@@ -1,3 +1,8 @@
+// Program vremenska-postaja omogoča upravljanje vremenskih postaj,
+// dodajanje temperaturnih meritev in izpis statističnega poročila.
+// Uporablja knjižnico github.com/urfave/cli/v3 za ukazni vmesnik.
+// Omogoča nastavljanje najnižje in najvišje temperature ter
+// najmanjšega števila meritev za izračun statistike.
 package main
 
 import (
