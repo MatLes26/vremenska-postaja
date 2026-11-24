@@ -1,4 +1,7 @@
- package vreme
+// Package vreme omogoča upravljanje vremenskih postaj in njihovih
+// temperaturnih meritev. Vsebuje funkcije za dodajanje postaj,
+// dodajanje meritev, izpis meritev in pripravo statističnih poročil.
+package vreme
 
 import (
 	"fmt"
